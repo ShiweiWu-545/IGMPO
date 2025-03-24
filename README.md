@@ -1,6 +1,6 @@
-![image](https://github.com/ShiweiWu-545/TGTPO/blob/main/data/overview.jpg)
+![image](https://github.com/ShiweiWu-545/TGTPO/blob/main/data/overview.png)
 
-# TGTPO
+# IGMPO
 
 ## Contents
 
