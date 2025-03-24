@@ -1,4 +1,4 @@
-![image](https://github.com/ShiweiWu-545/TGTPO/blob/main/data/overview.png)
+![image](https://github.com/ShiweiWu-545/TGTPO/blob/main/data/overview.jpg)
 
 # IGMPO
 
